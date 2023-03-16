@@ -16,4 +16,5 @@
 <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
 
-![Miss Dayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissDayane&show_icons=true&theme=radical)
+
+![Miss Dayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissDayane&show_icons=true&theme=dark)
