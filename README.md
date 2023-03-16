@@ -15,6 +15,6 @@
 <img align="center" alt="Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg"/>
 <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
-
+</br>
 
 ![Miss Dayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissDayane&show_icons=true&theme=dark)
