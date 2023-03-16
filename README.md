@@ -5,7 +5,7 @@
 ![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={MissDayane}&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissDayane&theme=blue-green)
 
 ### Recursos que uso no dia-a-dia
 
