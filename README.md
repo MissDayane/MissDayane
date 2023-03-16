@@ -5,7 +5,7 @@
 ![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissDayane&theme=blue-green)
+![Miss Dayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissDayane&show_icons=true&theme=dark)
 
 ## Recursos que uso no dia-a-dia
 
@@ -17,4 +17,6 @@
 </div>
 </br>
 
-![Miss Dayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissDayane&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissDayane&theme=blue-green)
+
