@@ -1,22 +1,31 @@
-## Hello World!! Eu sou a Dayane Pontes 🌜
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
+# Dayane Pontes
 
 
-![Miss Dayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissDayane&show_icons=true&theme=dark)
+### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF007F)](https://www.linkedin.com/in/dayane-pontes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FF007F)](https://github.com/MissDayane)
 
-## Recursos que uso no dia-a-dia
+### Habilidades & Interesses
 
-<div style="display: inline_block"> </br>
-<img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img align="center" alt="Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg"/>
-<img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-</div>
-</br>
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FF007F)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=FF007F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF007F)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FF007F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FF007F)](https://docs.github.com/)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=FF007F)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=FF007F)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=FF007F)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=FF007F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=FF007F)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=FF007F)
+![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=FF007F)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=FF007F)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MissDayane&theme=blue-green)
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MissDayane&theme=transparent&bg_color=000&border_color=FF007F&show_icons=true&icon_color=FF007F&title_color=FF007F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MissDayane&layout=compact&bg_color=000&border_color=FF007F&title_color=FF007F&text_color=FFF)
+
 
